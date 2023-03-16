@@ -1,0 +1,12 @@
+1) 
+cons PI = 3.14
+
+2) & 3)
+var is not block scope. It can be redeclared and reassigned.
+let is block scoped. It can't be reclared but can be reassigned.
+const is block scope. It can't neither reassigned or redecalred.
+
+4)let can be rassigned, const cannot.
+
+5)hoisting mean declaring a varibale before excueting other line of codes. Var can be hoisted.
+When using var, you can access the variable name and it’s undefined value before it is used later on.
